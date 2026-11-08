@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-live-22c55e?style=for-the-badge&logo=github)](https://qso-graph.io/qso-graph-demo-logbook/)
 [![Docs](https://img.shields.io/badge/docs-qso--graph.io-3b82f6?style=for-the-badge)](https://qso-graph.io)
 
-Interactive showcase of [qso-graph](https://github.com/qso-graph) MCP packages — connecting AI assistants to ham radio services.
+Interactive showcase of [qso-graph](https://github.com/qso-graph) MCP packages—connecting AI assistants to ham radio services.
 
 **[View the live demo →](https://qso-graph.io/qso-graph-demo-logbook/)**
 
@@ -44,4 +44,4 @@ npm run build   # production build
 
 ## License
 
-GPL-3.0-or-later — see [LICENSE](LICENSE).
+GPL-3.0-or-later—see [LICENSE](LICENSE).
